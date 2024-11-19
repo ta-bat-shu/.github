@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
       <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/미리캔버스-FF7F50?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/MiriCanvas-FF7F50?style=for-the-badge&logoColor=white">
         
   - 💾 Back-End :
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
