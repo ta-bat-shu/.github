@@ -23,8 +23,12 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
       
   - ❤️ 협업 :
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+  - 🏡 환경 :
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">     
 
   - 💬 기타 도구 :
       <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white">
@@ -76,7 +80,18 @@
 <br/><br/>
 
 ## Case Study
-  - ### Description
+  - ### 문제 정의
+현재 공공 자전거 대여 시스템에서는 QR 코드 인증 방식이 보편적으로 사용되고 있으나, 큐싱 범죄의 위험이 존재합니다. 이를 통해 사용자가 악성 QR 코드로 유도되어 보안 문제가 발생할 수 있습니다.
+
+  - ### 기존 시스템 분석
+기존의 QR 코드 인증 시스템은 인증 단계가 단순하여 악성 코드 삽입이나 외부 공격에 취약합니다. 또한, 사용자가 QR 코드를 스캔할 때 보안 검증 절차가 미흡하여 이용자의 개인정보가 노출될 위험이 존재합니다.
+
+  -  ### 프로젝트 목표와의 연관성
+본 프로젝트는 이러한 문제를 해결하기 위해 큐싱 방지를 위한 보안 검증 기능을 강화한 QR 코드 인증 시스템을 구현합니다. 이를 통해 사용자에게 안전한 자전거 대여 환경을 제공합니다.
+
+  - ### 기대 효과
+    - 큐싱 범죄 방지 효과로 사용자 보안 강화
+    - 사용자 신뢰도 향상 및 서비스 품질 개선<br/><br/>
   
 ## Conclusion
   - ### "타밭슈" 어플리케이션 (목업영상 넣을 예정)
