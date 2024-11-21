@@ -38,7 +38,7 @@
 
 ## <u>Teamate</u> Project Background<br/>
 ### 📕기획안 >><br/>
-![오픈소스sw프로그래밍_프로젝트-기획안](https://github.com/user-attachments/assets/3002b78e-c9ca-4be3-8a03-322091a0b474) <br/><br/>
+![image](https://github.com/user-attachments/assets/02032fb7-044b-4c6f-9eb6-12e76a48df6a) <br/><br/>
     
 ### 📈 프로젝트 개요
 - 배경 및 필요성<br/><br/>
@@ -73,10 +73,25 @@
 
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO<br/><br/>
+    - startQRCodeScan() : IntentIntegrator 사용, QR 코드 스캔
+    - setDesiredBarcodeFormats(List<String>) : 스캔할 바코드 형식을 설정
+    - reportButton.setOnClickListener → EditText 컴포넌트에 입력된 값들을 trim()울 통해 공백 제거하고 가져옴
+    <br/><br/>
     
   - ### System Dependencies
+    > - Front-end
+      >>agp = "8.6.0"
+      >>kotlin = "1.9.0"
+      >>coreKtx = "1.13.1"
+      >>junit = "4.13.2"
+      >>junitVersion = "1.2.1"
+      >>espressoCore = "3.6.1"
+      >>appcompat = "1.7.0"
+      >>material = "1.12.0"
+      >>activity = "1.9.2"
+      >>constraintlayout = "2.1.4"
+      >>playServicesMaps = "19.0.0"
+      >>playServicesAds = "23.3.0"
 <br/><br/>
 
 ## Case Study
@@ -94,10 +109,9 @@
     - 사용자 신뢰도 향상 및 서비스 품질 개선<br/><br/>
   
 ## Conclusion
-  - ### "타밭슈" 어플리케이션 (목업영상 넣을 예정)
-  - ### 신고 데이터 관리, 관리자창 
-  - ### 잠금장치 해제 모듈 (잠금해제 모듈 사진 및 시연영상 넣을 예정)
-  - ### 3D프린터 활용한 QR인식 간이 시연 영상 (간이 시연영상 넣을 예정)<br/><br/>
+  - ### "타밭슈" 어플리케이션 및 잠금해제 모듈 기능 시연 영상
+  
+  - <br/><br/>
   
 ## Project Outcome
 - 
