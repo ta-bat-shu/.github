@@ -109,8 +109,10 @@
     - 사용자 신뢰도 향상 및 서비스 품질 개선<br/><br/>
   
 ## Conclusion
-  - ### "타밭슈" 어플리케이션 및 잠금해제 모듈 기능 시연 영상
-  
+  - ### "타밭슈" 어플리케이션 및 3D프린터 활용한 간이 자전거 잠금해제 모듈 시연 영상
+    https://github.com/user-attachments/assets/29c12e63-c1c2-4c8a-bb54-0698997b7eb8
+
+
   - <br/><br/>
   
 ## Project Outcome
