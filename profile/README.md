@@ -114,6 +114,9 @@
 
 
   - <br/><br/>
-  
+### 앱 소개 영상
+![1  APP 세부 소개 영상](https://github.com/user-attachments/assets/e5301480-e57b-4a4a-9aad-834b7a7e173e)
+
+
 ## Project Outcome
 - 
