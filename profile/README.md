@@ -72,7 +72,12 @@
   - 2024.09.19 목 (팀결성) ~ 2024.12.05 목 (최종발표일)<br/><br/>
 
 ## System Design
-  
+    - ### System Requirements
+    <br/><br/>
+    
+  - ### System Dependencies
+<br/><br/>
+
 ## Conclusion
   - ### "타밭슈" 어플리케이션 및 3D프린터 활용한 간이 자전거 잠금해제 모듈 시연 영상
     https://github.com/user-attachments/assets/29c12e63-c1c2-4c8a-bb54-0698997b7eb8
