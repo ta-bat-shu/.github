@@ -66,23 +66,3 @@
 
 ### 📅 추진 일정
   - 2024.09.19 목 (팀결성) ~ 2024.12.05 목 (최종발표일)<br/><br/>
-
-## System Design
-  - ### System Requirements
-    - OOO
-    - OOO<br/><br/>
-    
-  - ### System Dependencies
-<br/><br/>
-
-## Case Study
-  - ### Description
-  
-## Conclusion
-  - ### "타밭슈" 어플리케이션 (목업영상 넣을 예정)
-  - ### 신고 데이터 관리, 관리자창 
-  - ### 잠금장치 해제 모듈 (잠금해제 모듈 사진 및 시연영상 넣을 예정)
-  - ### 3D프린터 활용한 QR인식 간이 시연 영상 (간이 시연영상 넣을 예정)<br/><br/>
-  
-## Project Outcome
-- 
