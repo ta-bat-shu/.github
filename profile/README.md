@@ -3,11 +3,11 @@
 <br/>
 
 #### 💻 **팀 구성 및 역할**
-  - 🧑🏻‍💻 20222562 사민경(PM) : Front-End(App, Web), Back-End(Web), 3D printer
-  - 👩🏻‍💻 20202689 오민석 : DB 구축, Back-End
-  - 👩🏻‍💻 20211072 유재윤 : Back-End(connective), Front-End(App), Arduino 통신
-  - 👩🏻‍💻 20231988 이지현 : Front-End(App, Management)
-  - 👩🏻‍💻 20231991 임미란 : Arduino 통신, Front-End(Web)
+  - 🧑🏻‍💻 20222562 사민경(PM) : Front-End(App, Web), Back-End(Web), 3D printer, 영상 촬영
+  - 👩🏻‍💻 20202689 오민석 : DB 구축, Back-End, 영상 촬영
+  - 👩🏻‍💻 20211072 유재윤 : Back-End(connective), Front-End(App), Arduino 통신, 영상 촬영
+  - 👩🏻‍💻 20231988 이지현 : Front-End(App, Management), QA, 영상 대본 작성
+  - 👩🏻‍💻 20231991 임미란 : Arduino 통신, Front-End(Web), 영상 대본 작성
 <br/><br/>
 
 #### 🕹️ 기술스택
